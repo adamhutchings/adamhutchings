@@ -1,8 +1,8 @@
 # Adam Hutchings
 
 ## Non-programming info
-I'm a 17 year old high school senior in the United States. Outside of programming, I like
-linguistics, math, and cooking. I'll be attending Case Western Reserve University in the fall.
+I'm an 18 year old college freshman in the United States. Outside of programming, I like
+linguistics, math, and cooking. I'm at [Case](https://case.edu) studying computer science and mathematics.
 
 ## My programming history
 I got into programming through my local robotics team in late 2019, doing Python, and since
