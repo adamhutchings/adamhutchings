@@ -2,7 +2,7 @@
 
 ## Non-programming info
 I'm an 18 year old college freshman in the United States. Outside of programming, I like
-linguistics, math, and cooking. I'm at [Case](https://case.edu) studying computer science and mathematics.
+linguistics, math, music, and cooking. I'm at [Case Western Reserve University](https://case.edu) studying computer science and mathematics.
 
 ## My programming history
 I got into programming through my local robotics team in late 2019, doing Python, and since
@@ -19,5 +19,5 @@ I'm working on Y-flat, a programming language still in development, with my long
 [compiler](https://github.com/adamhutchings/yfc) and he's working on the [installer](https://github.com/jakeroggenbuck/yfin).
 
 ## Contact me
-You can reach me at \[my first name\] (dot) abahot (at) gmail \[you know what\] com.
+You can reach me at \[my first name\] (dot) abahot (at) gmail \{you know what\} com.
 If I see it through the influx of emails from colleges. :-)
