@@ -1,7 +1,7 @@
 # Adam Hutchings
 
 ## Non-programming info
-Hi! I'm an 18-year-old student in the United States. I attend [Case Western Reserve University](https://case.edu), expecting to graduate in 2026, and studying computer science and mathematics. Outside of school, I also enjoy linguistics, singing, music composition, and cooking.
+Hi! I'm a 19-year-old student in the United States. I attend [Case Western Reserve University](https://case.edu), expecting to graduate in 2026, and studying computer science and mathematics. Outside of school, I also enjoy linguistics, singing, music composition, and cooking.
 
 ## My programming history
 I got into programming through my local robotics team in late 2019, doing Python, and since
