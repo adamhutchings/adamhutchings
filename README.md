@@ -1,7 +1,7 @@
 # Adam Hutchings
 
 ## Non-programming info
-Hi! I'm a 20-year-old student in the United States. I attend [Case Western Reserve University](https://case.edu), expecting to graduate in 2026, and studying computer science and mathematics. Outside of school, I also enjoy a few other things:
+Hi! I'm a 21-year-old developer based in the United States. From 2022 to 2026, I attended [Case Western Reserve University](https://case.edu), studying computer science and mathematics. Outside of school, I also enjoy a few other things:
 - singing (especially classical and barbershop music)
 - music composition + playing piano
 - writing (short stories + novels)
@@ -22,8 +22,4 @@ loader which goes on infinitely and lets you break blocks. This is my best compl
 although I have many others.
 
 ## What am I working on currently?
-I am currently a software developer intern at [Epic](https://www.epic.com/) in the summer of 2025, and besides that
-I am working on writing stories and learning mathematics.
-
-## Contact me
-Please reach out to me at ash160 at my university's domain.
+I am currently an incoming software engineer at [Epic](https://www.epic.com/).
